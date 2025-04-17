@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Віртуальне середовище
+.venv/
+venv/
+ENV/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# 🗂 IDE
+.vscode/
+.idea/
+
+# 🧪 pyinstaller тимчасова папка (може бути створена при кривому білді)
+*.manifest
+*.dll
+*.exe
