@@ -78,11 +78,11 @@ const config: Config = {
           items: [
             {
               label: 'Початок роботи',
-              to: '/docs/intro',
+              to: '/docs/getting-started',
             },
             {
               label: 'Поширені запитання',
-              to: '/docs/intro',
+              to: '/docs/faq',
             },
           ],
         },
