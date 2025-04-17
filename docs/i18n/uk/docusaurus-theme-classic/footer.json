@@ -1,0 +1,30 @@
+{
+  "link.title.Документація": {
+    "message": "Документація",
+    "description": "The title of the footer links column with title=Документація in the footer"
+  },
+  "link.title.Додаткові": {
+    "message": "Додаткові",
+    "description": "The title of the footer links column with title=Додаткові in the footer"
+  },
+  "link.item.label.Початок роботи": {
+    "message": "Початок роботи",
+    "description": "The label of footer link with label=Початок роботи linking to /docs/intro"
+  },
+  "link.item.label.Поширені запитання": {
+    "message": "Поширені запитання",
+    "description": "The label of footer link with label=Поширені запитання linking to /docs/intro"
+  },
+  "link.item.label.Завантаження EXE": {
+    "message": "Завантаження EXE",
+    "description": "The label of footer link with label=Завантаження EXE linking to https://github.com/yuranebykov/docx-to-moodle-gift/releases/download/v1.0.0/docx-to-moodle-gift.exe"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/yuranebykov/docx-to-moodle-gift"
+  },
+  "copyright": {
+    "message": "© 2025 Docx у GIFT. Створено з ❤️ за допомогою Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
